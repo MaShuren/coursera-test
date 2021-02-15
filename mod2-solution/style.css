@@ -16,7 +16,7 @@
 }
 
 #box {
-  border: 2px dashed black;
+  border: 1px solid black;
   background-color: grey;
   color: black;
   padding: 10px;
