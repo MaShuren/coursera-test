@@ -37,8 +37,8 @@ h1 {
   padding: 10px;
   text-align: center;
   font-size: 1.25em;
-  position: relative;
-  right:-200px;
+  position: absolute;
+  right:0px;
   background-color: pink;
   color: black;
 }
@@ -73,7 +73,7 @@ h1 {
   }
 
   .col-tablet-1 {
-    width: 100%;
+    width: 90%;
     float: left;
     border: 5px solid red;
   }
@@ -82,7 +82,7 @@ h1 {
 
 @media (max-width: 767px) {
   .col-phone-1 {
-    width: 100%;
+    width: 96%;
     float: left;
     border: 5px solid black;
   }
