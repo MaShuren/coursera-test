@@ -1,3 +1,12 @@
+
+// Immediately Invoked Function Expression
+// IIFE
+(function (name){
+  console.log("hello " + name);
+})("world");
+
+
+
 // ******************************* 
 // START HERE IF YOU WANT AN EASIER STARTING POINT FOR THIS ASSIGNMENT
 // *******************************
